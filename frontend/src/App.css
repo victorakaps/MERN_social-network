@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+body{
+  background-color: #e0f2f1;
+}
+
+a {
+  color: black !important;
+}
+
+i:hover {
+  cursor: pointer;
+}
+
+
+#search-icon {
+  margin-right: 80px;
+}
+
+.author-collection {
+  height: 50px;
+  font-size: 150% !important;
+}
+
+
+.comments-collection{
+  border: none !important;
+  border-top: 2px solid gray !important;
+}
+
+.comments-collection li{
+  margin: 5px !important;
+  width: 98%;
+  font-size: smaller !important;
+  padding: 5px !important;
+  min-height: 50px !important;
+  height: 50px;
+  background-color: lightgray !important;
+  border-radius: 15px;
+}
+
+.modal-content{
+  background-color: #b2dfdb;
+}
+
+.modal-content input::placeholder{
+  color: black;
+}
+
+.modal-content .collection{
+  border: none
+}
+
+.modal-content .collection li{
+  border: 3px solid #4db6ac;
+  border-radius: 15px;
+  background-color: #b2dfdb;
+  color: black;
+  font-weight: 700;
+}
+
+.logout-btn{
+  margin-right: 10px;
+  font-weight: 600;
+  color: black;
+  background-color:#00bfa5;
+}
+
+.comments-collection___li-title{
+  margin-left: 70px;
+  font-weight: 600;
+}
+
+
+.njhfdndnnd::placeholder{
+  color: black;
+}
+
+.brand-logo,
+h2 {
+  font-family: 'Bungee Inline', cursive;
+}
+
+.tabs.tabs-transparent{
+  background-color:#a7ffeb !important;
+  font-weight: 600;
+}
+.brand-logo{
+  padding-left: 20px !important;
+}
+
+.sup-card {
+  margin-top: 30px;
+}
+
+.sub-card {
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item {
+  width: 30%;
+}
+
+.home-card {
+  max-width: 500px;
+  margin: 26px auto;
+  height: max-content;
+}
+
+#toast-container {
+  top: 30px !important;
+  right: 20px !important;
+  left: auto !important;
+}
+
+.collection-item {
+  width: 100%;
+}
