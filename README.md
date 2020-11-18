@@ -2,7 +2,7 @@
 
 ### MERN powered social network app having all the typical features a social media should have
 
-<img align="left" src="https://i.imgur.com/bkYMcdb.gifv" width="800px"/>
+<img src="https://i.imgur.com/bkYMcdb.gifv" width="600px"/>
 
 #### features:
 - you can sigin/signup
