@@ -12,7 +12,7 @@
 - you can follow other users
 - you can search for other users
 - you can add and update your profile pic
-- seaprate tabs for all posts ands posts from people you follow
+- separate tabs for all posts ands posts from people you follow
 - forgot password feature
 
 ### Install Dependencies and Usage
